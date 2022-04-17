@@ -11,6 +11,8 @@
 
 //CODE HERE
 
+const gitDefinition = " Git is a software for logging and tracking any changes made files "
+
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,6 +20,7 @@
 */
 
 //CODE HERE
+const gitHubDefinition =" Github is a website for hosting and providing open-source programs and files using Git"
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -27,6 +30,8 @@
 
 //CODE HERE
 
+const gitInitDefinition = " Git init is a terminal command, using git bash, that initializes a repository in the located folder/location"
+
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,6 +39,7 @@
 */
 
 //CODE HERE
+const gitCloneDefinition = " Git clone copies an existing repository "
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -42,6 +48,8 @@
 */
 
 //CODE HERE
+
+const gitStatusDefinition = " Git status is used to see any files and changes to files within the repoistory before commit "
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -54,6 +62,10 @@
 
 //CODE HERE
 
+const gitAddDefinition = " Git add adds files from location to be logged for changes "
+
+const gitAddCode = " git add ."
+
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -65,6 +77,10 @@
 
 //CODE HERE
 
+const gitCommitDefinition = ' git commit creates a snapshot of the added files into the repository '
+
+const gitCommitCode = ' git commit -m "initial commit"'
+
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +89,5 @@
 */
 
 //CODE HERE
+
+const gitPushDefinition = ' git push pushes the changes logged from the local repository to an external/remote one'
